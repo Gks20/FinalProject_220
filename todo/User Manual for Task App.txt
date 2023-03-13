@@ -1,0 +1,55 @@
+**User Manual for Task App
+
+
+Welcome to the Simple Task App!
+
+for starts, if you do not have an account please click the register button
+and enter the required information. *The password must be 8 characters long and include a number.
+
+If you already have an account, proceed to login and view the homepage. 
+
+--------------------------------------------------------------
+After registering or logging in, you will notice a couple things :
+
+- The header of the page should display 'Hello, ' along with your name.
+
+- You should have 0 incomplete tasks.
+
+- A search bar for filtering.
+
+- A prompt to create a new task.
+
+--------------------------------------------------------------
+
+Let's create a task by clicking the prompt 'New task'
+
+- Start by giving your task a title
+
+- Describe what the task is below
+
+- Submit your task
+
+There is a checkbox with the word 'Complete' displayed above it, 
+you can use this feature to mark off tasks once they are complete.
+
+--------------------------------------------------------------
+
+You should now see your task on the home page if done correctly.
+
+There are a couple new things available, such as a + button in the mid right.
+This is used to add new task. 
+
+The X button is for deleting tasks, whether they are finished or un-needed.
+
+You can click and drag the three little dots on the far right of your task to organize them 
+the way you like.
+
+The task will show a green dot on the left of the title once the task has been marked completed.
+
+--------------------------------------------------------------
+
+Once you are ready to leave the app, make sure to logout with the button in the top right. 
+
+--------------------------------------------------------------
+
+Thanks! 
